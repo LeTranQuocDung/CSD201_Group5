@@ -1,4 +1,4 @@
-CSD201 GROUP 5
+CSD201 GROUP 6
 
 Topic 1: Smart Hospital Patient Triage System
 
